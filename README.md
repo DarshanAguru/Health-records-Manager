@@ -5,14 +5,14 @@ and then start storing the lab reports or the medical prescriptions. Users can t
 pdf of the document. Here there is also a provision for the Medical labs to create a corporate account and upload the prescriptions to the user's account. 
 This is a basic version of the website and is still under development. It doesn't encrypt the documents. It provides a database for users to store their medical documents.
 
-## Features
+## 🆕 Features
 
 - OTP verification
 - Encrypted passwords
 - Personal and corporate(LAB) accounts
 - Document searching using Title, Date or Type
 
-## Technologies used
+## 💻 Technologies used
 
 - PHP
 - HTML
