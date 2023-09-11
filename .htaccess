@@ -1,0 +1,12 @@
+
+# HTID:20413469: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:20413469:
+
+# HTID:21181700: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www.)?(agurudf.000webhostapp.com)(/)?.*$      [NC]
+RewriteRule .*.(.jpg|.jpeg|.gif|.png|.bmp|.tiff)$ http://agurudf.000webhostapp.com [R,NC]
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:21181700:
+
+
