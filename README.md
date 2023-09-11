@@ -12,7 +12,7 @@ This is a basic version of the website and is still under development. It doesn'
 - Personal and corporate(LAB) accounts
 - Document searching using Title, Date or Type
 
-## Technology used
+## Technologies used
 
 - PHP
 - HTML
@@ -25,7 +25,11 @@ I'm a programming enthusiast, always curious to learn new things and try new tec
 
 ## 🛠 Skills
 
-Python, Java, Javascript, HTML, CSS...
+- Programming Languages: Python, Java, C++
+- Frameworks: Django, React
+- Web Technologies: HTML, CSS, JS
+- Databases: MySQL, Oracle
+- Soft skills: Healthy communication, Smart Worker, quick learner, problem solver 
 
 ## 🔗 Links
 
